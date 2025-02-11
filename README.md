@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Jairo Gómez Arias!  
 
-<!--
-**Jairogomezarias9/Jairogomezarias9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at the Faculty of Informatics of Barcelona (FIB, UPC)  
+💻 Passionate about programming and software development  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Languages  
+- C++  
+- C  
+- SQL  
+- Java  
+- Assembly  
+- R  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+Coming soon
+
+Always open to learning and collaborating on new projects! 🚀  
